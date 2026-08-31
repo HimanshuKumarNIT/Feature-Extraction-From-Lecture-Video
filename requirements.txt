@@ -1,0 +1,17 @@
+streamlit==1.38.0
+
+# Video / image processing
+opencv-python==4.10.0.84
+
+# Feature extraction
+numpy==1.26.4
+scikit-image==0.24.0
+pytesseract==0.3.13
+
+# Clustering & data handling
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.1
+
+# Progress bars
+tqdm==4.66.5

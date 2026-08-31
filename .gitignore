@@ -1,0 +1,25 @@
+# Generated pipeline data (recreated by app.py / main.py on each run)
+input_videos/
+extracted_frames/
+processed_frames/
+processed_frames_large/
+features/
+final_representative_frames/
+summarized_videos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.log
